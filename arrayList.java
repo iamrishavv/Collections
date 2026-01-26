@@ -1,5 +1,6 @@
 package BasicJava;
-
+//it is best for retrieval operations because it uses index based operations and not recommended for insertion because it needs shifting
+//it internally use array to store data.
 import java.util.ArrayList;
 import java.util.List;
 
